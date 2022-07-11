@@ -1,0 +1,14 @@
+body{
+	background: #f8e8a6;
+}
+.container{
+	text-align: center;
+}
+.links{
+	padding-top: 20px;
+}
+.links a{
+	padding: 10px;
+	text-decoration: none;
+	color: black;
+}
